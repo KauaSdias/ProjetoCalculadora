@@ -22,7 +22,7 @@ div {
     font-family: 'Common Pixel', sans-serif;
     border: solid 2px gray;
     box-shadow: 3px 5px 5px black;
-                                                
+    overflow: hidden;                                            
 }
 
 button {
